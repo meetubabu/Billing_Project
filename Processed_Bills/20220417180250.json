@@ -1,0 +1,28 @@
+{
+    "LineItems": [
+        {
+            "Product": "23",
+            "Qty": 4,
+            "linetotal": 16
+        },
+        {
+            "Product": "8",
+            "Qty": 3,
+            "linetotal": 9
+        },
+        {
+            "Product": "17",
+            "Qty": 14,
+            "linetotal": 28
+        },
+        {
+            "Product": "9",
+            "Qty": 20,
+            "linetotal": 40
+        }
+    ],
+    "BillID": "20220417180250",
+    "BillDate": "02/24/2008 05:49:56",
+    "StoreID": 1,
+    "BillTotal": 93
+}
